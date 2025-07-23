@@ -66,11 +66,27 @@ I'm passionate about building **intelligent systems** that drive efficiency, enh
 **Digital Validation Intern** | Aug 2023 - Sep 2023 | Bangalore
 * Flag-based OCR for 20+ countries, image preprocessing, integrated Google Translate, Flask backend. 🌍
 
+### Verzeo (with IBM)
+**Student Intern** | June 2022 - August 2022 | Bangalore
+* Focused on Python, Excel, and Machine Learning techniques.
+
 ---
 
 ## Education 🎓
 
 **B.E in AI & ML** | BMS Institute of Technology & Management - VTU | Dec 2022 - June 2024 | Bangalore
+
+---
+
+## Certifications & Achievements 🏆
+
+* **Presented Research at IEEE Conference**: Contributed to academic discourse; paper currently under publication review. (August 31st, 2024)
+* **Awarded Second Prize for Dataset Cleaner** at College Open Day. (August 18th, 2023)
+* **Immensphere By Verzeo**. (September 20th, 2022)
+* **Data Visualization with Python Powered by IBM Developer Skills Networks**. (September 9th, 2022)
+* **Learn and Master C Programming For Absolute Beginners!**. (August 18th, 2022)
+* **Basics of Python**. (August 14th, 2022)
+* **MathWork Training Services MATLAB Onramp**. (August 10th, 2022)
 
 ---
 
@@ -84,5 +100,5 @@ I'm passionate about building **intelligent systems** that drive efficiency, enh
 
 ---
 
-**Note on Pop-up Functionality:**
+**Note on Interactive Features:**
 A GitHub `README.md` file is a static markdown document. It does not support interactive features like pop-up windows or buttons that execute JavaScript. If you want a contact form that pops up, you would typically implement that on a personal website, and then link to that website from your GitHub README.
