@@ -36,17 +36,17 @@ I'm passionate about building **intelligent systems** that drive efficiency, enh
 ## Featured Projects 💡
 
 * **Health Insurance Prediction**: Developed an ML model in Python to predict health insurance policy interest using various classification algorithms. ⚙️
-    * [Link to Project Repository - *Add your project link here*]
+    * [Repository](https://github.com/aravindsuresh20/Health_Insurance_Prediction)
 * **Predictive Revenue Analytics**: Built a solution for forecasting future revenue using time series (ARIMA, Prophet) and machine learning models. 📈
-    * [Link to Project Repository - *Add your link here*]
+    * [Repository](https://github.com/aravindsuresh20/Predictive-revenue)
 * **Optical Character Recognition (OCR)**: Python-based OCR system using OpenCV and Pytesseract for accurate text extraction from images. 📄
-    * [Link to Project Repository - *Add your link here*]
+    * [Repository](https://github.com/aravindsuresh20/OCR)
 * **Investment Portfolio Optimization**: Python tool for financial modeling, asset allocation, and visualization of portfolio performance. 💰
-    * [Link to Project Repository - *Add your link here*]
+    * [Repository](https://github.com/aravindsuresh20/Investment-Portfolio-)
 * **Tax Compliance Automation**: Python solution for automating data processing and report generation for tax compliance. 📊
-    * [Link to Project Repository - *Add your link here*]
+    * [Repository](https://github.com/aravindsuresh20/Tax-Compliance-)
 * **Simple AI Chatbot**: Web-based Flask chatbot with voice input/output for AI, ML, NLP, and Deep Learning Q&A. 💬
-    * [Link to Project Repository - *Add your link here*]
+    * [Repository](https://github.com/aravindsuresh20/Simple-AI-Chatbot)
 
 ---
 
@@ -74,9 +74,15 @@ I'm passionate about building **intelligent systems** that drive efficiency, enh
 
 ---
 
-## Connect 🔗
+## Connect With Me 🌐
 
-* **LinkedIn**: [Your LinkedIn Profile URL - *Add your link here*] 💼
-* **GitHub**: [Your GitHub Profile URL - *Add your link here*] 🐙
-* **Personal Website/Portfolio**: [Your Personal Website URL - *Add your link here if you have one*] 🌐
+* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aravindsuresh20)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-suresh-730a661b2)
+* [![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sur90489aravind?s=21)
+* [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/aravind2)
 * **Email**: [Your Email Address - *Add your email here*] 📧
+
+---
+
+**Note on Pop-up Functionality:**
+A GitHub `README.md` file is a static markdown document. It does not support interactive features like pop-up windows or buttons that execute JavaScript. If you want a contact form that pops up, you would typically implement that on a personal website, and then link to that website from your GitHub README.
