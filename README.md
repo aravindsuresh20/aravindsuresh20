@@ -36,17 +36,17 @@ I'm passionate about building **intelligent systems** that drive efficiency, enh
 ## Featured Projects 💡
 
 * **Health Insurance Prediction**: Developed an ML model in Python to predict health insurance policy interest using various classification algorithms. ⚙️
-    * [Repository](https://github.com/aravindsuresh20/Health_Insurance_Prediction)
+    * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aravindsuresh20/Health_Insurance_Prediction)
 * **Predictive Revenue Analytics**: Built a solution for forecasting future revenue using time series (ARIMA, Prophet) and machine learning models. 📈
-    * [Repository](https://github.com/aravindsuresh20/Predictive-revenue)
+    * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aravindsuresh20/Predictive-revenue)
 * **Optical Character Recognition (OCR)**: Python-based OCR system using OpenCV and Pytesseract for accurate text extraction from images. 📄
-    * [Repository](https://github.com/aravindsuresh20/OCR)
+    * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aravindsuresh20/OCR)
 * **Investment Portfolio Optimization**: Python tool for financial modeling, asset allocation, and visualization of portfolio performance. 💰
-    * [Repository](https://github.com/aravindsuresh20/Investment-Portfolio-)
+    * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aravindsuresh20/Investment-Portfolio-)
 * **Tax Compliance Automation**: Python solution for automating data processing and report generation for tax compliance. 📊
-    * [Repository](https://github.com/aravindsuresh20/Tax-Compliance-)
+    * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aravindsuresh20/Tax-Compliance-)
 * **Simple AI Chatbot**: Web-based Flask chatbot with voice input/output for AI, ML, NLP, and Deep Learning Q&A. 💬
-    * [Repository](https://github.com/aravindsuresh20/Simple-AI-Chatbot)
+    * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aravindsuresh20/Simple-AI-Chatbot)
 
 ---
 
@@ -80,7 +80,7 @@ I'm passionate about building **intelligent systems** that drive efficiency, enh
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-suresh-730a661b2)
 * [![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sur90489aravind?s=21)
 * [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/aravind2)
-* **Email**: [Your Email Address - *Add your email here*] 📧
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravindsuresh2030@gmail.com)
 
 ---
 
