@@ -4,7 +4,7 @@
 
 
 
-Hi, I’m **Aravind Suresh** — an **AIML Software Engineer** with a B.E. in **Artificial Intelligence and Machine Learning** (Class of 2024) 🎓. I specialize in designing and deploying scalable AI/ML solutions, with 1 year of hands-on experience in machine learning, deep learning, computer vision, NLP, and data analytics.
+Hi, I’m **Aravind Suresh** — an **AIML Software Engineer** with a B.E. in **Artificial Intelligence and Machine Learning** (Class of 2024) 🎓. I specialize in designing and deploying scalable AI/ML solutions, with 1 year of hands-on experience in machine learning, deep learning, NLP, and data analytics.
 
 I'm passionate about building **intelligent systems** that drive efficiency, enhance user experiences, and make a meaningful impact. 🚀
 
@@ -98,7 +98,4 @@ I'm passionate about building **intelligent systems** that drive efficiency, enh
 * [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/aravind2)
 * [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravindsuresh2030@gmail.com)
 
----
 
-**Note on Interactive Features:**
-A GitHub `README.md` file is a static markdown document. It does not support interactive features like pop-up windows or buttons that execute JavaScript. If you want a contact form that pops up, you would typically implement that on a personal website, and then link to that website from your GitHub README.
